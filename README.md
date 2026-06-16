@@ -9,7 +9,7 @@
 <div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> <b>Working at Heguru India</b> <br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Pushpin.png" alt="Karthikraja.s" width="25" height="25" /> <b>Based in Pondicherry, India</b> <br>
+    <img src="https://pps.services.adobe.com/api/profile/B6472E8C60594AED0A495FBC@AdobeID/image/28c4e5cb-fd30-4c7e-add7-fe4ae8a5ab04/115" alt="Karthikraja.s" width="25" height="25" /> <b>Based in Pondicherry, India</b> <br>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightbulb" width="25" height="25" /> <b>Passionate about full-stack web solutions</b>
   </p>
 </div>
